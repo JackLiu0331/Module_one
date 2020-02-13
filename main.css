@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+input{
+  font-size: 20px;
+  width: 50%;
+
+}
+h1 {
+    font-size: 6em;
+    padding: 30px 0;
+    font-family: 'Bangers', cursive;
+    text-align: center;
+  }
+  body {
+    justify-content: center;
+    align-items: center;
+    background-color: #33ccff;
+  }
+  .container {
+    text-align: center;
+    background-color: #ffffff;
+
+  }
+  #Add{
+  font-size: 20px;
+  width: 7%;
+  background-color: #66ff66;
+
+}
+#Delete{
+  font-size: 20px;
+  width: 15%;
+  background-color: #ff0000;
+  margin-bottom: 20px;
+}
+#hint{
+    font-size: 2em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  ul {
+    padding: 30px;
+    list-style:none;
+  }
+  ul li {
+    list-style: none;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 2em;
+  }
